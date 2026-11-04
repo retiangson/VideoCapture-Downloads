@@ -1,1 +1,1 @@
-3054fd11ac647d5927be5e02d0bb5c7534c005acbde4aad78d4bee30e066c288  VideoCapture-Host-0.7.1-win-x64-development.zip
+5d2484a423df3ff60ec3b949d037369cc4c4117c544e3b0c2524e9385367bbbb  VideoCapture-Host-0.7.1-win-x64-development.zip
