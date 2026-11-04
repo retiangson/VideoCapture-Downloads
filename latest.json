@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "version": "0.10.1",
+  "version": "0.10.2",
   "channel": "development",
   "customerReady": false,
   "packageType": "installer",
-  "sourceCommit": "4b78e1bd1a6adb2966f6ab3fb93d0b60703c5839",
+  "sourceCommit": "a8a6ab0450aa423e90dc3c559db80a1631639893",
   "sourceRepository": "retiangson/VideoCapture",
   "downloadRepository": "retiangson/VideoCapture-Downloads",
-  "workflowRun": "https://github.com/retiangson/VideoCapture/actions/runs/41851501509",
-  "releaseTag": "host-v0.10.1-dev-41851501509-1",
-  "releaseUrl": "https://github.com/retiangson/VideoCapture-Downloads/releases/tag/host-v0.10.1-dev-41851501509-1",
-  "downloadUrl": "https://github.com/retiangson/VideoCapture-Downloads/releases/download/host-v0.10.1-dev-41851501509-1/VideoCapture-Host-0.10.1-win-x64-setup.exe",
-  "fileName": "VideoCapture-Host-0.10.1-win-x64-setup.exe",
-  "bytes": 163495872,
-  "sha256": "606218760a3038c1617b7a59e96b906251b797342187bf2ca2011d166a396c75",
-  "publishedAtUtc": "2026-11-04T14:57:59.0793400Z"
+  "workflowRun": "https://github.com/retiangson/VideoCapture/actions/runs/41921458807",
+  "releaseTag": "host-v0.10.2-dev-41921458807-1",
+  "releaseUrl": "https://github.com/retiangson/VideoCapture-Downloads/releases/tag/host-v0.10.2-dev-41921458807-1",
+  "downloadUrl": "https://github.com/retiangson/VideoCapture-Downloads/releases/download/host-v0.10.2-dev-41921458807-1/VideoCapture-Host-0.10.2-win-x64-setup.exe",
+  "fileName": "VideoCapture-Host-0.10.2-win-x64-setup.exe",
+  "bytes": 163496792,
+  "sha256": "a316143ffb5ed4afdc70b3ee20b05c7517812a08a3d5c92d75e2a6638c3098b0",
+  "publishedAtUtc": "2026-11-04T22:08:36.7723949Z"
 }
