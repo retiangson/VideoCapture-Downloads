@@ -1,10 +1,10 @@
 # VideoCapture Host downloads
 
-## Development build 0.10.2
+## Development build 0.11.0
 
-[Download the complete Windows x64 Host package](https://github.com/retiangson/VideoCapture-Downloads/releases/download/host-v0.10.2-dev-41921458807-1/VideoCapture-Host-0.10.2-win-x64-setup.exe) · [Release notes](https://github.com/retiangson/VideoCapture-Downloads/releases/tag/host-v0.10.2-dev-41921458807-1)
+[Download the complete Windows x64 Host package](https://github.com/retiangson/VideoCapture-Downloads/releases/download/host-v0.11.0-dev-41927507468-1/VideoCapture-Host-0.11.0-win-x64-setup.exe) · [Release notes](https://github.com/retiangson/VideoCapture-Downloads/releases/tag/host-v0.11.0-dev-41927507468-1)
 
-SHA-256: a316143ffb5ed4afdc70b3ee20b05c7517812a08a3d5c92d75e2a6638c3098b0
+SHA-256: e554f61564bd05e7b1b0677c903558a17766b8cdf41ae2a383507a5916c1c1f0
 
 Run the downloaded setup EXE. It installs the complete package into Program Files, adds Start Menu/optional desktop shortcuts and registers an uninstaller. Network Mirror is the default; Direct USB/Extend drivers are optional and require explicit development-certificate trust approval. Configure per-user Windows startup, notification-area launch and saved-profile reconnection in the Host. No separate runtime download is needed.
 
@@ -12,7 +12,7 @@ Run the downloaded setup EXE. It installs the complete package into Program File
 
 The installer is downloadable during both trial and paid access. Paid features must be enforced by verified mobile-app entitlements, not by hiding downloads. This development build does not implement purchase enforcement.
 
-Source commit: a8a6ab0450aa423e90dc3c559db80a1631639893 · [Build and validation logs (source repository access required)](https://github.com/retiangson/VideoCapture/actions/runs/41921458807)
+Source commit: f05227510ad5badd0e750a4cf7d954cb8eea87d1 · [Build and validation logs (source repository access required)](https://github.com/retiangson/VideoCapture/actions/runs/41927507468)
 
 This public repository contains download metadata and compiled release assets only. Private application source history is not copied here. Installers are GitHub Release assets, avoiding Git's 100-MiB file limit. Keep this downloads repository public so users can download without signing in.
 

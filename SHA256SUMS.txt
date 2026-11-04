@@ -1,1 +1,1 @@
-a316143ffb5ed4afdc70b3ee20b05c7517812a08a3d5c92d75e2a6638c3098b0  VideoCapture-Host-0.10.2-win-x64-setup.exe
+e554f61564bd05e7b1b0677c903558a17766b8cdf41ae2a383507a5916c1c1f0  VideoCapture-Host-0.11.0-win-x64-setup.exe
